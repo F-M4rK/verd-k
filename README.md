@@ -1,0 +1,1 @@
+igen, nem, tegnap, holnap
